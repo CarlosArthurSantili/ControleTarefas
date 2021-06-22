@@ -45,7 +45,7 @@ namespace BancoDeDados.ConsoleApp.Telas
                 Console.Write("Digite o email do contato: ");
                 contato.email = Console.ReadLine();
 
-                Console.Write("Digite o telefone do contato: ");
+                Console.Write("Digite o telefone do contato(9 digitos): ");
                 contato.telefone = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Digite a empresa do contato: ");
