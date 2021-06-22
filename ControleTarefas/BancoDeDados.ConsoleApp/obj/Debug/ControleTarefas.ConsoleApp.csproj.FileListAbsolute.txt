@@ -1,0 +1,7 @@
+C:\Users\Carlos\source\repos\ControleTarefas\BancoDeDados.ConsoleApp\bin\Debug\BancoDeDados.ConsoleApp.exe.config
+C:\Users\Carlos\source\repos\ControleTarefas\BancoDeDados.ConsoleApp\bin\Debug\BancoDeDados.ConsoleApp.exe
+C:\Users\Carlos\source\repos\ControleTarefas\BancoDeDados.ConsoleApp\bin\Debug\BancoDeDados.ConsoleApp.pdb
+C:\Users\Carlos\source\repos\ControleTarefas\BancoDeDados.ConsoleApp\obj\Debug\ControleTarefas.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ControleTarefas\BancoDeDados.ConsoleApp\obj\Debug\BancoDeDados.ConsoleApp.exe
+C:\Users\Carlos\source\repos\ControleTarefas\BancoDeDados.ConsoleApp\obj\Debug\BancoDeDados.ConsoleApp.pdb
+C:\Users\Carlos\source\repos\ControleTarefas\BancoDeDados.ConsoleApp\obj\Debug\ControleTarefas.ConsoleApp.csprojAssemblyReference.cache

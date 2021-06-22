@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [HAKA-PC\Carlos]
+    FROM WINDOWS;
+
